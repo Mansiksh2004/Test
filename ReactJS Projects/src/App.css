@@ -1,0 +1,12 @@
+.container
+{
+  border:10px solid red;
+}
+.col-md-8
+{
+  border:10px solid blue;
+}
+.col-md-4
+{
+  border:10px solid yellow;
+}
